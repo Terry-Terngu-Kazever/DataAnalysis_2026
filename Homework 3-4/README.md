@@ -1,4 +1,6 @@
  SUMMARY OF HOME WORK 3
+
+ 
 1.OVERVIEW OF DATA
 Total number of observations: 1147 
 Group 0 (Outcome=0) size: 987 
